@@ -1,4 +1,5 @@
 Lab10_6
+
 Use a DFS (Depth-First Search) with coordinate tracking approach:
 
 Whenever the robot moves to a new cell, it records the current position (coordinates) into a set called visited.
