@@ -102,7 +102,7 @@ beeper - beeper - beeper - beeper
 
 | Lab | 對應 Extension | 說明 |
 |---|---|---|
-| `Lab10_1` | `Extension2` | 使用原本的 right-hand wall-following 或相關迷宮搜尋邏輯 |
+| `Lab10_1` | `Extension2` | 使用原本的 right-hand wall, left hand wall，並達成隨機50%選擇走法|
 | `Lab10_6` | `Extension3` | 使用 DFS 與座標追蹤避免重複拜訪 |
 | `Lab10_6_1` | `Extension3` | 說明 single beeper 導致的目標判斷模糊問題 |
 | `Lab10_6_2` | `Extension3` | 使用 isolated goal beeper 的特性改善判斷 |
