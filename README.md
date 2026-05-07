@@ -21,3 +21,6 @@ Because both cases look identical (a single beeper), the robot cannot determine 
 Lab10_6_2
 
 Use the property that the goal beeper is typically isolated (no neighboring beepers) to distinguish it from the trail (a sequence of connected beepers).
+
+
+Lab10_6, Lab10_6_1, Lab10_6_2 -> Extension3
